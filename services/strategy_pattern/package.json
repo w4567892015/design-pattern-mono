@@ -2,9 +2,10 @@
   "name": "strategy_pattern",
   "version": "1.0.0",
   "description": "",
-  "main": "build/app.js",
+  "main": "dist/app.js",
   "scripts": {
     "start": "node .",
+    "start:dev": "nodemon .",
     "build": "tsc",
     "watch": "tsc -w",
     "test": "echo \"Error: no test specified\" && exit 1"
