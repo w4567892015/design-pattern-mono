@@ -4,7 +4,7 @@ Design Pattern Monorepo With TypeScript
 - [x] Strategy Pattern (策略模式)
 - [ ] Composite Pattern (組合模式)
 - [ ] Singleton (單例模式)
-- [ ] Factory Method Pattern (工廠模式)
+- [x] Factory Method Pattern (工廠模式)
 - [ ] TemplateMethod Pattern (樣板模式)
 - [ ] Adapter Pattern (轉接器模式)
 - [ ] Bridge Pattern (橋樑模式)
